@@ -1,0 +1,9 @@
+ime = "Marko"
+prezime = "Maric"
+godina_rodenja = 1990
+drzava_rodenja = "Hravtska"
+status_radnog_odnosa = "zaposlen"
+jesi_li_zaposlen = True
+zaposlen = True
+tezina_kg = 104.5
+spol = "M"
